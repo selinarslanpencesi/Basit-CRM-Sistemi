@@ -1,0 +1,86 @@
+[
+    {
+        "musteri_id": 1,
+        "ad": "Ahmet Yılmaz",
+        "telefon": "0532 111 2233",
+        "email": "ahmet.yilmaz@gmail.com",
+        "sehir": "İstanbul"
+    },
+    {
+        "musteri_id": 2,
+        "ad": "Fatma Kaya",
+        "telefon": "0541 222 3344",
+        "email": "fatma.kaya@outlook.com",
+        "sehir": "Ankara"
+    },
+    {
+        "musteri_id": 3,
+        "ad": "Mehmet Demir",
+        "telefon": "0555 333 4455",
+        "email": "mdemir@firma.com.tr",
+        "sehir": "İzmir"
+    },
+    {
+        "musteri_id": 4,
+        "ad": "Zeynep Arslan",
+        "telefon": "0506 444 5566",
+        "email": "zeynep.arslan@hotmail.com",
+        "sehir": "Bursa"
+    },
+    {
+        "musteri_id": 5,
+        "ad": "Can Öztürk",
+        "telefon": "0543 555 6677",
+        "email": "can.ozturk@gmail.com",
+        "sehir": "İstanbul"
+    },
+    {
+        "musteri_id": 6,
+        "ad": "Elif Şahin",
+        "telefon": "0551 666 7788",
+        "email": "elif.sahin@yandex.com",
+        "sehir": "Antalya"
+    },
+    {
+        "musteri_id": 7,
+        "ad": "Burak Çelik",
+        "telefon": "0535 777 8899",
+        "email": "bcelik@teknoloji.net",
+        "sehir": "İstanbul"
+    },
+    {
+        "musteri_id": 8,
+        "ad": "Selin Aydın",
+        "telefon": "0507 888 9900",
+        "email": "selin.aydin@gmail.com",
+        "sehir": "Eskişehir"
+    },
+    {
+        "musteri_id": 9,
+        "ad": "Emre Koç",
+        "telefon": "0544 999 0011",
+        "email": "emre.koc@icloud.com",
+        "sehir": "Ankara"
+    },
+    {
+        "musteri_id": 10,
+        "ad": "Hande Polat",
+        "telefon": "0552 000 1122",
+        "email": "hande.polat@firma.com",
+        "sehir": "İzmir"
+    },
+    {
+        "musteri_id": 11,
+        "ad": "Oğuz Yıldırım",
+        "telefon": "0536 121 3344",
+        "email": "oguz.yildirim@gmail.com",
+        "sehir": "Trabzon"
+    },
+    {
+        "musteri_id": 12,
+        "ad": "Neslihan Güneş",
+        "telefon": "0542 232 4455",
+        "email": "neslihan.gunes@hotmail.com",
+        "sehir": "İstanbul"
+    }
+]
